@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Vinícius Rubin
 
-Cursando Técnico em Informática integrado ao Ensino Médio no <a href="https://www.iffarroupilha.edu.br/frederico-westphalen">Instituto Federal Farroupilha - Campus Frederico Westphalen</a>
+Cursando Técnico em Informática integrado ao Ensino Médio no <a href="https://www.iffarroupilha.edu.br/frederico-westphalen" target="blank">Instituto Federal Farroupilha - Campus Frederico Westphalen</a>
 <br><br>
 📓&nbsp;Estudanto Html, CSS e Javascript
 <br><br>
