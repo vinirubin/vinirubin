@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **vinirubin/vinirubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Vinícius Rubin
+
+Cursando Técnico em Informática integrado ao Ensino Médio no <a href="https://www.iffarroupilha.edu.br/frederico-westphalen">Instituto Federal Farroupilha - Campus Frederico Westphalen</a>
+<br><br>
+📓&nbsp;Estudanto Html, CSS e Javascript
+<br><br>
+💼 &nbsp;<a href="https://www.linkedin.com/in/vin%C3%ADcius-rubin-4202991b3/">Linkedin</a>
+<br>
+:e-mail: &nbsp; vinicius.rubin@hotmail.com
