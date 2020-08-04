@@ -23,4 +23,4 @@ Cursando Técnico em Informática integrado ao Ensino Médio no <a href="https:/
 <br><br>
 💼 &nbsp;<a href="https://www.linkedin.com/in/vin%C3%ADcius-rubin-4202991b3/">Linkedin</a>
 <br>
-:e-mail: &nbsp; vinicius.rubin@hotmail.com
+:e-mail:&nbsp;vinicius.rubin@hotmail.com
